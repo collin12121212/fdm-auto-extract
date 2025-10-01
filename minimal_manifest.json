@@ -1,0 +1,1 @@
+{\n  "uuid": "<your-uuid>",\n  "author": "<your-author>",\n  "name": "<your-name>",\n  "description": "<your-description>",\n  "version": "<your-version>",\n  "icon": "<your-icon-url>",\n  "mediaParser": true,\n  "scripts": [\n    "parser.js"\n  ],\n  "minApiVersion": 1\n}
