@@ -1,0 +1,1 @@
+{"uuid": "fdm-auto-extract-addon","author": "collin12121212","permissions": {"launchPython": true},"dependencies": {"python": ">=3.6"},"target_api_version": 7}
